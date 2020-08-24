@@ -69,7 +69,7 @@ hls2 <- hls2[2:45]
 hls2[hls2 =="2"]<- NA
 ```
 
-## 모델 피팅
+# 모델 피팅
 
 ## Including Plots
 
